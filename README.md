@@ -1,0 +1,2 @@
+# Password-generator
+Developed using the Tkinter and SQLite3 modules in Python, This application can generate a random password with the combination of letters, numerics and special characters. The user can specify the length of the password and can select the strength of the password as well. Furthermore, a database is set up to store all the passwords along with the user's ID for easy and secure access to the required data.
